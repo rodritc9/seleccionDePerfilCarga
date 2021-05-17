@@ -6,7 +6,7 @@
 
 /* 
  * File:   CargaPuntual.cpp
- * Author: ariel
+ * Author: Rodrigo Torres
  * 
  * Created on 31 de octubre de 2016, 17:14
  */

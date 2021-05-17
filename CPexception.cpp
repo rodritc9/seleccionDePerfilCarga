@@ -6,7 +6,7 @@
 
 /* 
  * File:   CPexception.cpp
- * Author: ariel
+ * Author: Rodrigo Torres
  * 
  * Created on 8 de noviembre de 2016, 09:32
  */

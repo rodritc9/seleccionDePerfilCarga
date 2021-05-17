@@ -6,7 +6,7 @@
 
 /*
  * File:   Estatica.cpp
- * Author: federico
+ * Author: Rodrigo Torres
  *
  * Created on 7 de noviembre de 2016, 16:08
  */
